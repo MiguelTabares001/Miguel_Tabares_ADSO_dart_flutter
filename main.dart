@@ -1,3 +1,5 @@
+/* 
+
 import 'dart:io';
 void main (){
 /*print("Tipos De Datos 1");
@@ -109,6 +111,7 @@ while(bandera){
   */
   
   // Definicion de variables
+  
   int cantidadPersonas;
   String nombre, genero;
   List<String> listaM = []; // Lista para nombres masculinos
@@ -150,7 +153,7 @@ while(bandera){
 }
 
 
-
+*/
 
 
 
